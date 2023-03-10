@@ -1,4 +1,4 @@
-Open a new terminal window.
+bvahaha \Open a new terminal window.
 
 Type the following command and press Enter to start the SSH key generation process:
 
